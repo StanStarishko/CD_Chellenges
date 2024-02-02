@@ -1,3 +1,3 @@
-#Sub directory
+# Sub directory
 ## readme file
 done
